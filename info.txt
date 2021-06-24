@@ -1,3 +1,4 @@
 A line is added.
 This is information file for the project.
-Modification done by Paulo
+//Modification done by Paulo
+Commented Paulo's modification.
