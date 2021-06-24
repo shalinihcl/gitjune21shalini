@@ -1,2 +1,3 @@
 A line is added.
 This is information file for the project.
+This is info file
